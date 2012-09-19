@@ -1,0 +1,7 @@
+#! /usr/bin/env python2
+# Simple example to demonstrate the Command.stand_alone() method.
+
+import openerpcommand.client
+
+if __name__ == '__main__':
+    openerpcommand.client.Open.stand_alone()
