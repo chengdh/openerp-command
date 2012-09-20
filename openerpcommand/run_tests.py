@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+#只能测试tests/test_*.py文件,不能测试test/*.yml文件
+
 import os
 import sys
 import types
